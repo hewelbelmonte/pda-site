@@ -29,10 +29,10 @@
 
 @media screen and (max-width: 620px) {
     header h1 {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     header li {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
 }
 
