@@ -1,6 +1,6 @@
 @media screen and (max-width: 350px) {
     header h1 {
-        font-size: 0.7rem;
+        font-size: .7rem;
         text-align: center;
     }
     nav {
@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 390px) {
     header h1 {
-        font-size: 1rem;
+        font-size: .8rem;
         text-align: center;
     }
     nav {
@@ -20,10 +20,10 @@
 
 @media screen and (max-width: 560px) {
     header h1 {
-        font-size: 1.1rem;
+        font-size: .9rem;
     }
     header li {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
 }
 
